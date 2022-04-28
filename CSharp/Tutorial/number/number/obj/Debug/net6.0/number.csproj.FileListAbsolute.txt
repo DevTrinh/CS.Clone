@@ -1,0 +1,15 @@
+F:\ManhLapTrinh\CSharp\Tutorial\number\number\bin\Debug\net6.0\number.exe
+F:\ManhLapTrinh\CSharp\Tutorial\number\number\bin\Debug\net6.0\number.deps.json
+F:\ManhLapTrinh\CSharp\Tutorial\number\number\bin\Debug\net6.0\number.runtimeconfig.json
+F:\ManhLapTrinh\CSharp\Tutorial\number\number\bin\Debug\net6.0\number.dll
+F:\ManhLapTrinh\CSharp\Tutorial\number\number\bin\Debug\net6.0\ref\number.dll
+F:\ManhLapTrinh\CSharp\Tutorial\number\number\bin\Debug\net6.0\number.pdb
+F:\ManhLapTrinh\CSharp\Tutorial\number\number\obj\Debug\net6.0\number.csproj.AssemblyReference.cache
+F:\ManhLapTrinh\CSharp\Tutorial\number\number\obj\Debug\net6.0\number.GeneratedMSBuildEditorConfig.editorconfig
+F:\ManhLapTrinh\CSharp\Tutorial\number\number\obj\Debug\net6.0\number.AssemblyInfoInputs.cache
+F:\ManhLapTrinh\CSharp\Tutorial\number\number\obj\Debug\net6.0\number.AssemblyInfo.cs
+F:\ManhLapTrinh\CSharp\Tutorial\number\number\obj\Debug\net6.0\number.csproj.CoreCompileInputs.cache
+F:\ManhLapTrinh\CSharp\Tutorial\number\number\obj\Debug\net6.0\number.dll
+F:\ManhLapTrinh\CSharp\Tutorial\number\number\obj\Debug\net6.0\ref\number.dll
+F:\ManhLapTrinh\CSharp\Tutorial\number\number\obj\Debug\net6.0\number.pdb
+F:\ManhLapTrinh\CSharp\Tutorial\number\number\obj\Debug\net6.0\number.genruntimeconfig.cache

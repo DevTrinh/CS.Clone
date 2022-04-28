@@ -1,0 +1,10 @@
+F:\ManhLapTrinh\CSharp\WinForm\AdoNet3\Source\ManageTeacher\ManageTeacher\bin\Debug\ManageTeacher.exe.config
+F:\ManhLapTrinh\CSharp\WinForm\AdoNet3\Source\ManageTeacher\ManageTeacher\bin\Debug\ManageTeacher.exe
+F:\ManhLapTrinh\CSharp\WinForm\AdoNet3\Source\ManageTeacher\ManageTeacher\bin\Debug\ManageTeacher.pdb
+F:\ManhLapTrinh\CSharp\WinForm\AdoNet3\Source\ManageTeacher\ManageTeacher\obj\Debug\ManageTeacher.csproj.AssemblyReference.cache
+F:\ManhLapTrinh\CSharp\WinForm\AdoNet3\Source\ManageTeacher\ManageTeacher\obj\Debug\ManageTeacher.FormMDI.resources
+F:\ManhLapTrinh\CSharp\WinForm\AdoNet3\Source\ManageTeacher\ManageTeacher\obj\Debug\ManageTeacher.Properties.Resources.resources
+F:\ManhLapTrinh\CSharp\WinForm\AdoNet3\Source\ManageTeacher\ManageTeacher\obj\Debug\ManageTeacher.csproj.GenerateResource.cache
+F:\ManhLapTrinh\CSharp\WinForm\AdoNet3\Source\ManageTeacher\ManageTeacher\obj\Debug\ManageTeacher.csproj.CoreCompileInputs.cache
+F:\ManhLapTrinh\CSharp\WinForm\AdoNet3\Source\ManageTeacher\ManageTeacher\obj\Debug\ManageTeacher.exe
+F:\ManhLapTrinh\CSharp\WinForm\AdoNet3\Source\ManageTeacher\ManageTeacher\obj\Debug\ManageTeacher.pdb
